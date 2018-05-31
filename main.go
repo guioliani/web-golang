@@ -59,5 +59,3 @@ func main() {
 	http.HandleFunc("/save/", save)
 	http.ListenAndServe(":8000", nil)
 }
-
-https://www.youtube.com/watch?v=KvKV_skpo3U&list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9&index=5
